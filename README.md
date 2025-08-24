@@ -29,6 +29,10 @@ This repository provides a Python script to process historical daily weather obs
 - **Outputs**
   - Cleaned dataset saved as CSV
   - Summary statistics and feature correlations
+ 
+**Original Data**
+Oginal dataset maybe found at: 
+https://data.climpact.gr/en/dataset/2f5bbe2a-7e27-40e7-9ff6-1dcc08c507fa
 
 ---
 
